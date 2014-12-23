@@ -1,0 +1,31 @@
+﻿TestComplete v.10, Floating User License
+Includes 
+TestComplete 10 Platform
+TestComplete 10 Desktop Testing Module 
+TestComplete 10 Web Testing Module
+//old, 1st 
+License Key 6832431307618141787 
+//NEW, 2nd
+(after removal from 8.1 and resinstall on W7) 6255155162470201113
+
+TestExecute 10 (Floating User License) Auto Upgrade
+Includes
+TestExecute v.10
+
+//old, 1st
+License Key2689431717235881454 
+
+//NEW, 2nd 
+(after removal from 8.1 and reinstall on W7) 2062124457896593742
+
+//Latest, 3rd time 7-14-2014
+8641047856033286173
+
+//11-26-2014 -> installed on andrei-PC
+TestComplete
+3659325496771198143
+TestExecute
+3391446526312648113
+
+
+

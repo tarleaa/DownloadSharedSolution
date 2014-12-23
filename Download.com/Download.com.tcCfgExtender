@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{112204d8-6eac-4677-b7a8-2617a1874bab}">
+				<Node name="{02542b04-194a-4903-b727-27ddea5f3f24}"/>
+				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
+			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="activity" type="S" value="{7CED425B-ADF1-4107-91E1-B63E903C5E57}"/>
+			</Node>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
+				<Node name="{41ed20b2-f7d5-4d09-8c44-4ce6d765c5c7}">
+					<Prp name="hash" type="I" value="1"/>
+				</Node>
+			</Node>
+			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
+				<Node name="workspace">
+					<Node name="0">
+						<Node name="editor">
+							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
+								<Prp name="key" type="S" value="{4E60E0F2-2D8B-438C-B60A-D27C1DE86A29}"/>
+							</Node>
+							<Prp name="editor" type="S" value="{CE8228E8-8753-4A7E-9C61-97F1E796FB91}"/>
+							<Prp name="focused" type="S" value="{4E60E0F2-2D8B-438C-B60A-D27C1DE86A29}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{7CED425B-ADF1-4107-91E1-B63E903C5E57}"/>
+					</Node>
+					<Node name="1">
+						<Node name="editor">
+							<Prp name="editor" type="S" value="{99474765-F088-4294-A7E7-AC23CC275DB0}"/>
+							<Prp name="focused" type="S" value="{59EA9542-5FE6-411B-BB2F-9B502A1AAFFC}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
+					</Node>
+					<Prp name="docking" type="H" value="617162696EF47B0101000000790200007801730C74F177F6E66280023120FD9195816132334C041F6DC00491BDE3FDECBD7BEB47E7C59DD7AF94BE91E564FCCEC8C00032C1B07496CDD3D3398E6B6EAE6816E249BED80F142F018A37B003ADC1B482059F6520B9FF50700868CE092C7CFCFA41AE5D095592EAEE3EB3E3C314A7E5CFD7289F518FDD00725927500EC365A0A009063A3A91A108482A30040059E90CA940511ABB1668C36A200681171A4DE782DBEBBCE6244EFFF87CDAEF89381DCB0D54ECC290CF50CE90C79003A413195218FCC07C7A38171884C4030098E071D2"/>
+					<Prp name="editorscount" type="I" value="2"/>
+					<Prp name="enabled" type="B" value="-1"/>
+				</Node>
+			</Node>
+			<Node name="{78a745b3-10ae-4253-9f16-55a8bcaf43c6}">
+				<Node name="item_0">
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="expression" type="S" value="pagesList.length"/>
+					<Prp name="index" type="I" value="0"/>
+				</Node>
+				<Node name="item_1">
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="expression" type="S" value="downloadFileMenuItem"/>
+					<Prp name="index" type="I" value="1"/>
+				</Node>
+				<Prp name="history" type="S" value="downloadFileMenuItem&#xA;pagesList.length&#xA;downloadButtonXPath&#xA;dreProductList&#xA;sponsoredProductXPath&#xA;productsListXPathFind&#xA;sponsoredProduct&#xA;iframeTest&#xA;ghjg&#xA;actionButtons&#xA;spotBid&#xA;avastAd&#xA;notifBarText&#xA;iePopUp&#xA;ieNotificationBar&#xA;xPathFind&#xA;aqString.Find(downloadedFileType, &quot;cbsidlm-cbs*&quot;)&#xA;downloadedFileType&#xA;aqString.Find(downloadedFileType, &quot;*cbsidlm-cbs*&quot;)&#xA;dwInProgress&#xA;yesExitChromeButton&#xA;arr&#xA;foundObject&#xA;xPathItem&#xA;xpathFindItem&#xA;i&#xA;aqString.Find(currentURL, &quot;3001&quot;)&#xA;aqString.Find(currentURL, &quot;3000&quot;)&#xA;viewportFind&#xA;((aqString.Find(currentURL, &quot;3001&quot;, true) != -1) || (aqString.Find(currentURL, &quot;3055&quot;, true) != -1)) &amp;&amp; gridList.length == 4&#xA;dreSectionList&#xA;gridList&#xA;moreProductsText&#xA;dreSection&#xA;currentURL&#xA;downloadNowButton&#xA;downloadButton&#xA;image&#xA;adsOnPageArray&#xA;ValuesArray&#xA;PropArray&#xA;directDownloadLinkList&#xA;pagesList&#xA;aqString.Find(pagesList[i].URL, Project.Variables.ServerName)&#xA;Project.Variables.ServerName&#xA;pagesList[i].URL&#xA;csvVariation != &quot;Offsite Popup (Web Page, pop up)&quot; &amp;&amp; csvVariation != &quot;Offsite Popup (Web Page, main window)&quot;&#xA;csvVariation != &quot;Offsite Popup (Web Page, pop up)&quot; || csvVariation != &quot;Offsite Popup (Web Page, main window)&quot;&#xA;csvVariation != &quot;Offsite Popup (Web Page, pop up)&quot;) || (csvVariation != &quot;Offsite Popup (Web Page, main window)&quot;&#xA;csvVariation != &quot;Offsite Popup (Web Page, main window)&quot;&#xA;csvVariation != &quot;Offsite Popup (Web Page, pop up)&quot;&#xA;csvVariation&#xA;continueToDownloadButton&#xA;modalPopUp&#xA;variationType&#xA;page.URL&#xA;extension&#xA;fileType&#xA;extenstionSearch&#xA;extenstionSearch[0].Exists&#xA;extenstionSearch.length&#xA;extenstionSearch.Exists&#xA;downloadPanel&#xA;saveButton&#xA;downloadPopUp&#xA;testing&#xA;windowDownloadPanel&#xA;fileToBeDownloaded&#xA;topSecurityBar&#xA;alreadyExistsPopUp&#xA;dialogPopUp&#xA;windowPopUp&#xA;objectsList&#xA;aqString.Find(allButtonTypeObjects[i].Caption, &quot;Cancelled&quot;) != -1&#xA;allButtonTypeObjects&#xA;aqString.Find(notifBarText, &quot;completed&quot;) != -1&#xA;aqString.Compare(notifBarText, secondInstanceNotifBar, true) == 0&#xA;secondInstanceNotifBar&#xA;page&#xA;object&#xA;modalBodyPopUp&#xA;continueToExternalSiteButton&#xA;saveFileButton&#xA;cancelButtons&#xA;browserWindow&#xA;ctaLeftContent&#xA;aqString.Find(csvURL, currentURL)&#xA;aqString.Find(csvURL, currentURL) != -1&#xA;ctaDownloadNow&#xA;floatBar&#xA;csvURL&#xA;aqString.Find(buttonTextFirstInstance, &quot;secs left&quot;) != -1&#xA;buttonTextSecondInstance&#xA;buttonTextFirstInstance&#xA;cancelButton&#xA;aqString.Find(getStatusInitial, &quot;Open Containing Folder&quot; != -1)&#xA;aqString.Find(getStatusInitial, &quot;Open Containing Folder&quot; == -1)&#xA;restartDownload&#xA;timeLeftCurrrent&#xA;timeLeftInitial&#xA;estimatedTimeLeft&#xA;downloaded&#xA;saveAsDialog&#xA;yesButton&#xA;downloading&#xA;fileName&#xA;httpObj.responseText&#xA;httpObj.status&#xA;editTextbox&#xA;fileExtension&#xA;chromePopUp&#xA;downloadButtonBar&#xA;results&#xA;result&#xA;placeholder&#xA;browser&#xA;okButton&#xA;IEProcess"/>
+			</Node>
+			<Node name="{86873e45-42bf-4c44-8fbd-d6bdfbfd5189}"/>
+			<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+				<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+					<Node name="{7380860e-ff17-4ecb-8d3d-11c257ddd614}\testdata">
+						<Node name="expanding">
+							<Prp name="expandlist" type="H" value="617162696EAE1300010000002400000078016364606060046266208601189B052A0000010C000D"/>
+						</Node>
+					</Node>
+				</Node>
+			</Node>
+			<Node name="{d0151f8e-51fe-49da-8534-008b9f1b7c45}">
+				<Node name="{00000000-0000-0000-0000-000000000000}">
+					<Node name="{06e6f8ec-176a-4316-8515-dbb88b771bee}">
+						<Prp name="bottom" type="I" value="105"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{0e0a068b-16fa-40b7-89a1-00c78b1dec38}">
+						<Prp name="bottom" type="I" value="33"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{278a16f2-1616-4dab-b06d-7df0f1002892}">
+						<Prp name="bottom" type="I" value="201"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{385978bf-54f5-4a0c-b99c-c7a3d948e1be}">
+						<Prp name="bottom" type="I" value="5"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{39bdd809-b41f-405b-97e8-f0a69e618aab}">
+						<Prp name="bottom" type="I" value="207"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{3bc88826-81fe-480d-a355-2bb6f8fcee5c}">
+						<Prp name="bottom" type="I" value="273"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{4075280c-b502-4809-bb73-048655e5612c}">
+						<Prp name="bottom" type="I" value="34"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{537c5047-c42e-430b-be05-6e57c68e446a}">
+						<Prp name="bottom" type="I" value="49"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{5418de36-f882-4cfd-b2f7-a89917392aef}">
+						<Prp name="bottom" type="I" value="49"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{749eea44-86eb-4243-b531-9c08ce983b52}">
+						<Prp name="bottom" type="I" value="875"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{819c9533-0925-4dd6-98e0-af066146f0fb}">
+						<Prp name="bottom" type="I" value="356"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{854ecd16-c2c9-4744-81d6-cb682a11f3f7}">
+						<Prp name="bottom" type="I" value="-1"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{85bc87fe-06af-4464-8964-e0930a4e51f0}">
+						<Prp name="bottom" type="I" value="219"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{8639af6b-0ae8-46f9-a415-a9a15eab0ace}">
+						<Prp name="bottom" type="I" value="147"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{920506ce-8e84-4440-bbd8-65a5c0e44017}">
+						<Prp name="bottom" type="I" value="277"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{c5e90b4b-c28c-4c98-a64b-935219219be7}">
+						<Prp name="bottom" type="I" value="567"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{d1f2fb78-127e-4cbc-82fd-7f50302991c2}">
+						<Prp name="bottom" type="I" value="35"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{ddcf1b59-f5c0-4d9d-aef1-1b89718f9368}">
+						<Prp name="bottom" type="I" value="49"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{e57f2478-6aef-4152-b188-7c9d9b273e44}">
+						<Prp name="bottom" type="I" value="43"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{efcbfed2-e6f6-4d74-99f0-5ebf7eda8339}">
+						<Prp name="bottom" type="I" value="144"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+					<Node name="{f75c93b0-71c4-4e37-99db-758fbaa562c4}">
+						<Prp name="bottom" type="I" value="47"/>
+						<Prp name="collapsed" type="B" value="0"/>
+						<Prp name="top" type="I" value="0"/>
+					</Node>
+				</Node>
+			</Node>
+			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
+				<Node name="download.com">
+					<Node name="downloadnow">
+						<Node name="advanced">
+							<Node name="script">
+								<Node name="utilities"/>
+							</Node>
+						</Node>
+					</Node>
+				</Node>
+				<Node name="download.com logs"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
+	</Node>
+</Nodes>

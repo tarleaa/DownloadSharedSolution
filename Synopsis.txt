@@ -1,0 +1,46 @@
+Issue found: Chrome sometimes was not responding
+Root cause: Chrome instability issue
+Action taken to fix: Now launching Chrome using the '--disable-hang-monitor' parameter
+
+Issue found: 'Open file' pop-up appeared on Chrome browser after the download was finished
+Root cause: 'Always open file' option from Chrome was cheked.
+Action taken to fix: Unchecked the 'Always open file' option from Chrome downloading bar (right click on file and uncheck the option_
+
+Issue found: Chrome process was not found by TestComplete
+Root cause: Corrupt Chrome installer / not properly installed
+Action taken to fix: Reinstalled chrome (by Barbara)
+
+Issue found: 'Library' window is not closed after closing Firefox browser
+Root cause: For some reason (not identified yet), the Library window  does not closes on first try. Could not reproduce this, but added a possible fix.
+Action taken to fix: After first attempt to close the Library window, verify the Library window object was actually closed. If it still exists, try to close it again
+
+====================================================================================
+
+Issue found: in IE10, float CTA does not always appear when scrolling down the page. 
+Root cause: N/A
+Action taken to fix: if after scrolling down 2 times the float CTA does not appear, reload the page and try again
+
+
+Issue found: in IE10, clicking the download now button for a 3000 Standard page does not always redirect to a 3001 page
+Root cause: N/A
+Action taken to fix: no fix available.
+
+
+Issue found: Adobe Photoshop CS6 for Mac (Publisher Hosted page) opens 2 download windows in FF. In chrome, after canceling 1st download a 2nd oen automatically starts
+Root cause: N/A
+Action taken to fix: in FF close the 2nd donwload pop-up. In Chrome, cancel the download of the 2nd instance.ss
+
+
+Issue found:
+Root cause:
+Action taken to fix:
+
+
+Issue found:
+Root cause:
+Action taken to fix:
+
+
+Issue found:
+Root cause:
+Action taken to fix:

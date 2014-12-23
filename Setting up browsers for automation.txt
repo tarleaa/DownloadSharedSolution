@@ -1,0 +1,27 @@
+Getting the browser set up for automation with TestComplete / TestExecute
+
+Internet Explorer:
+ - make sure the home page is set to 'about:blank' and the Startup (Settings - General Tab - Startup section) is set to 'Start with home page'
+ - remove any non-essential add-ons
+ - make sure all IE updates are installed (from Windows Updates)
+ - for IE11, make sure you run (once for every machine) the "TabProcGrowth.reg" registry file. After that, please verify that the TabProcGrowth key value was added in the registry on the following path: "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\". Failure to do this will make the tests fail.
+
+Chrome:
+ - make sure the SmartBear TestComplete Extension is installed and enabled (from Tools - Extensions)
+ - remove and non-essential extensions (from Tools - Extensions)
+ - set the home page to 'about:blank' (from Settings - On Startup section - check the Open a specific page or set of pages. Click the 'Set Pages' and add about:blank)
+ - set the download files to automatically download to a specific location: from Settings, click on Show advanced settings. Scroll down to 'Downloads' section and uncheck 'Ask where to save each file before downloading'. Set the Download location to /Downloads folder
+ - stop running applications in background: from Settings, click on Show advanced settings. Scroll down to System and uncheck the 'Continue running background apps when Google Chrome is closed' option
+ - disable phishing and malware protection: from Settings, click on Show advanced settings. From the privacy section, uncheck Enable phishing and malware protection
+ 
+ 
+Firefox:
+ - make sure the home page is set to 'about:blank': go to Tools - Options - General tab. Choose 'Show a blank page' from 'When Firefox starts' dropdown. On the Home Page filed, set the page to 'about:blank'.
+ - set the download to automatically start: go to Tools - Options - General tab. Choose the 'Save file to' option and set the 'Save files to' the Downloads folder.
+ - turn off Fireofx updates: Tools - Options - Advanced tab - Update sub-tab: choose the 'Never check for updates' option (this option is desired as TestComplete needs a 'hook' added for each new FF version. In case the 'hook' is not added, most likely the tests will fail using the new FF version)
+ - activate the menu bar: if the menu bar is not visible (top bar with File, Edit, View, History, Bookmarks, Tools and Help menus), press the Alt key and it will become visible. Then go to View - Toolbars and check Menu Bar option.
+ - make sure you have installed the correct 'hook' for your version of Firefox, from this link: http://support.smartbear.com/downloads/testcomplete/firefox-patches/. 
+ 
+ 
+ 
+Note: /Downloads folder should regularly be emptied: due to the fact that some files that are being downloaded from Download.com are small, most likely the download will finish and the files will be saved to disk. The folder will need to be emptied from time to time to avoid low disk space on drive C.
