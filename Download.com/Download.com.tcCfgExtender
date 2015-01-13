@@ -27,32 +27,21 @@
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
 				<Prp name="activity" type="S" value="{7CED425B-ADF1-4107-91E1-B63E903C5E57}"/>
 			</Node>
-			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
-				<Node name="{41ed20b2-f7d5-4d09-8c44-4ce6d765c5c7}">
-					<Prp name="hash" type="I" value="1"/>
-				</Node>
-			</Node>
+			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
 							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
-								<Prp name="key" type="S" value="{4E60E0F2-2D8B-438C-B60A-D27C1DE86A29}"/>
+								<Prp name="key" type="S" value="{2B3DBF25-DB84-474D-BB9A-6939469064BB}"/>
 							</Node>
 							<Prp name="editor" type="S" value="{CE8228E8-8753-4A7E-9C61-97F1E796FB91}"/>
-							<Prp name="focused" type="S" value="{4E60E0F2-2D8B-438C-B60A-D27C1DE86A29}"/>
+							<Prp name="focused" type="S" value="{2B3DBF25-DB84-474D-BB9A-6939469064BB}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{7CED425B-ADF1-4107-91E1-B63E903C5E57}"/>
 					</Node>
-					<Node name="1">
-						<Node name="editor">
-							<Prp name="editor" type="S" value="{99474765-F088-4294-A7E7-AC23CC275DB0}"/>
-							<Prp name="focused" type="S" value="{59EA9542-5FE6-411B-BB2F-9B502A1AAFFC}"/>
-						</Node>
-						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
-					</Node>
-					<Prp name="docking" type="H" value="617162696EF47B0101000000790200007801730C74F177F6E66280023120FD9195816132334C041F6DC00491BDE3FDECBD7BEB47E7C59DD7AF94BE91E564FCCEC8C00032C1B07496CDD3D3398E6B6EAE6816E249BED80F142F018A37B003ADC1B482059F6520B9FF50700868CE092C7CFCFA41AE5D095592EAEE3EB3E3C314A7E5CFD7289F518FDD00725927500EC365A0A009063A3A91A108482A30040059E90CA940511ABB1668C36A200681171A4DE782DBEBBCE6244EFFF87CDAEF89381DCB0D54ECC290CF50CE90C79003A413195218FCC07C7A38171884C4030098E071D2"/>
-					<Prp name="editorscount" type="I" value="2"/>
+					<Prp name="docking" type="H" value="617162696EF47B0101000000CC0100007801730C74F177F6E66280023120CDC8CAC050CA0C13C14737334264EF783F7BEFDEFAD17971E7F52BA56F643919BD801220130C4B67D93C3D9DE3B8E6E68A66219EE48BFD40F112A0F804360686CB9856B0E0B30C24F71F0A0E01CD3981858F5F3FC8B5ABA14A5E68349D0B6EAFF39A9338FDE3F369BF27825CD60994C370193750D085219FA19C218F2107482732A430F881F90C0C34762FD4A94453000FFF4E16"/>
+					<Prp name="editorscount" type="I" value="1"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
 			</Node>
@@ -92,7 +81,7 @@
 						<Prp name="top" type="I" value="0"/>
 					</Node>
 					<Node name="{278a16f2-1616-4dab-b06d-7df0f1002892}">
-						<Prp name="bottom" type="I" value="201"/>
+						<Prp name="bottom" type="I" value="175"/>
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
@@ -142,7 +131,7 @@
 						<Prp name="top" type="I" value="0"/>
 					</Node>
 					<Node name="{85bc87fe-06af-4464-8964-e0930a4e51f0}">
-						<Prp name="bottom" type="I" value="219"/>
+						<Prp name="bottom" type="I" value="213"/>
 						<Prp name="collapsed" type="B" value="0"/>
 						<Prp name="top" type="I" value="0"/>
 					</Node>
@@ -190,13 +179,7 @@
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="download.com">
-					<Node name="downloadnow">
-						<Node name="advanced">
-							<Node name="script">
-								<Node name="utilities"/>
-							</Node>
-						</Node>
-					</Node>
+					<Node name="downloadnow"/>
 				</Node>
 				<Node name="download.com logs"/>
 			</Node>
