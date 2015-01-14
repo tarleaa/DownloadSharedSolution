@@ -32,11 +32,14 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
+							<Node name="{18d21374-749a-4b12-9591-aeba7c5332a9}">
+								<Prp name="key" type="S" value="{08930250-258C-4355-A51D-CC18C6E6630D}"/>
+							</Node>
 							<Node name="{531ace08-e68e-400b-9eb9-e24763725fd8}">
-								<Prp name="key" type="S" value="{2B3DBF25-DB84-474D-BB9A-6939469064BB}"/>
+								<Prp name="key" type="S" value="{749F9130-4565-4B89-AF05-0BCBD2AF3A13}"/>
 							</Node>
 							<Prp name="editor" type="S" value="{CE8228E8-8753-4A7E-9C61-97F1E796FB91}"/>
-							<Prp name="focused" type="S" value="{2B3DBF25-DB84-474D-BB9A-6939469064BB}"/>
+							<Prp name="focused" type="S" value="{08930250-258C-4355-A51D-CC18C6E6630D}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{7CED425B-ADF1-4107-91E1-B63E903C5E57}"/>
 					</Node>
@@ -179,7 +182,11 @@
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
 				<Node name="download.com">
-					<Node name="downloadnow"/>
+					<Node name="downloadnow">
+						<Node name="advanced">
+							<Node name="script"/>
+						</Node>
+					</Node>
 				</Node>
 				<Node name="download.com logs"/>
 			</Node>
