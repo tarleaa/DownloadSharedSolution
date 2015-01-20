@@ -19,11 +19,10 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="folders">
-			<Node name="folders"/>
+		<Node name="data">
+			<Prp name="key" type="S" value="{85BC87FE-06AF-4464-8964-E0930A4E51F0}"/>
 		</Node>
-		<Node name="logs"/>
-		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
-		<Prp name="version" type="S" value="7.0"/>
+		<Prp name="signature" type="S" value="{42D2222C-ACA2-405F-8E67-05D5C42EB839}"/>
+		<Prp name="version" type="I" value="1"/>
 	</Node>
 </Nodes>

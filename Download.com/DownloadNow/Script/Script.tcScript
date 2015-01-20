@@ -200,6 +200,16 @@
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
+			<Node name="item0000000018">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Unit1.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="18"/>
+				<Prp name="key" type="S" value="{7AC9D1ED-A181-4552-BEBB-38C19EB57445}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
 		</Node>
 		<Node name="folders">
 			<Node name="folders">
@@ -245,6 +255,10 @@
 						<Node name="ref0000000009">
 							<Prp name="index" type="I" value="9"/>
 							<Prp name="key" type="S" value="{F75C93B0-71C4-4E37-99DB-758FBAA562C4}"/>
+						</Node>
+						<Node name="ref0000000010">
+							<Prp name="index" type="I" value="10"/>
+							<Prp name="key" type="S" value="{1DBE9DB2-C5C8-4C58-8DF6-3606329C9A34}"/>
 						</Node>
 					</Node>
 					<Prp name="caption" type="S" value="Utilities"/>

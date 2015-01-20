@@ -43,6 +43,16 @@
 				<Prp name="type" type="S" value="{90D101C8-80C7-48D4-9055-2E451B9BCD75}"/>
 				<Prp name="typename" type="S" value="Tested Applications"/>
 			</Node>
+			<Node name="item0000000002">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="NameMapping\NameMapping.tcNM"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{5B149BE2-C2AA-4416-8DDC-AEFE27478002}"/>
+				<Prp name="pluginname" type="S" value="NameMapping"/>
+				<Prp name="type" type="S" value="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}"/>
+				<Prp name="typename" type="S" value="Name Mapping"/>
+			</Node>
 		</Node>
 		<Node name="config">
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
@@ -173,7 +183,7 @@
 				<Prp name="col5enabled" type="B" value="-1"/>
 				<Prp name="col5type" type="I" value="1"/>
 				<Prp name="colcount" type="I" value="6"/>
-				<Prp name="colindex" type="I" value="5"/>
+				<Prp name="colindex" type="I" value="0"/>
 				<Prp name="rowcount" type="I" value="0"/>
 				<Prp name="rowindex" type="I" value="-1"/>
 				<Prp name="type" type="I" value="6"/>
@@ -1596,7 +1606,7 @@
 													</Node>
 													<Prp name="count" type="I" value="1"/>
 													<Prp name="description" type="S" value=""/>
-													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="enabled" type="B" value="0"/>
 													<Prp name="group" type="B" value="0"/>
 													<Prp name="index" type="I" value="2"/>
 													<Prp name="key" type="S" value="{5133EAC2-9E0B-4044-BFE3-F7C1BC8EB791}"/>
@@ -1708,7 +1718,7 @@
 													</Node>
 													<Prp name="count" type="I" value="1"/>
 													<Prp name="description" type="S" value=""/>
-													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="enabled" type="B" value="0"/>
 													<Prp name="group" type="B" value="0"/>
 													<Prp name="index" type="I" value="2"/>
 													<Prp name="key" type="S" value="{19A5648B-CCBD-441F-A023-ADFDF0C10A53}"/>
@@ -2058,7 +2068,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="enabled" type="B" value="0"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{DF1F96C2-3E51-4104-83DF-0BC3FB1D6C42}"/>
@@ -2170,7 +2180,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="enabled" type="B" value="0"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{1FC4415C-8EB4-4CC7-AE79-713645D7CEBA}"/>
@@ -2522,7 +2532,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="enabled" type="B" value="0"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{930200EF-BA4E-4D67-8973-7CA4BC106911}"/>
@@ -2650,7 +2660,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="enabled" type="B" value="0"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{FD771C11-E399-4265-BFE1-04D392D6B7C1}"/>
@@ -3224,7 +3234,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="enabled" type="B" value="0"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{32AE6B90-167C-40F1-8A96-57D6A8804B75}"/>
@@ -3407,6 +3417,16 @@
 					<Prp name="name" type="S" value="ServerName"/>
 					<Prp name="type" type="S" value="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}"/>
 				</Node>
+				<Node name="var10">
+					<Node name="defvalue">
+						<Prp name="intvalue" type="I" value="0"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value=" "/>
+					<Prp name="local" type="B" value="-1"/>
+					<Prp name="name" type="S" value="DownloadDelay"/>
+					<Prp name="type" type="S" value="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}"/>
+				</Node>
 				<Node name="var2">
 					<Node name="defvalue">
 						<Prp name="intvalue" type="I" value="0"/>
@@ -3436,6 +3456,56 @@
 					<Prp name="local" type="B" value="-1"/>
 					<Prp name="name" type="S" value="CurentOS"/>
 					<Prp name="type" type="S" value="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}"/>
+				</Node>
+				<Node name="var5">
+					<Node name="defvalue">
+						<Prp name="strvalue" type="H" value="2E00650078006500"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value=" "/>
+					<Prp name="local" type="B" value="0"/>
+					<Prp name="name" type="S" value="FileNameExtension"/>
+					<Prp name="type" type="S" value="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}"/>
+				</Node>
+				<Node name="var6">
+					<Node name="defvalue">
+						<Prp name="intvalue" type="I" value="40"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value="540069006D006500200074006F0020005700610069007400200066006F007200200044006F0077006E006C006F00610064002000570069006E0064006F0077002F00420061007200280073006500630073002900200028004E006F007400650073003A00200048006100760069006E006700200068006900670068002000760061006C007500650020006D00610079002000640065006C0061007900200065007800650063007500740069006F006E0020006900660020006F0062006A0065006300740020006900730020006E006F007400200061007600610069006C00610062006C00650020002900"/>
+					<Prp name="local" type="B" value="0"/>
+					<Prp name="name" type="S" value="DownloadWaitTime"/>
+					<Prp name="type" type="S" value="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}"/>
+				</Node>
+				<Node name="var7">
+					<Node name="defvalue">
+						<Prp name="intvalue" type="I" value="5"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value="540069006D006500200074006F0020005700610069007400200066006F007200200044006F0077006E006C006F006100640020004C0069006E006B0073002000280073006500630073002900200028004E006F007400650073003A00200048006100760069006E006700200068006900670068002000760061006C007500650020006D00610079002000640065006C0061007900200065007800650063007500740069006F006E0020006900660020006F0062006A0065006300740020006900730020006E006F007400200061007600610069006C00610062006C00650020002900"/>
+					<Prp name="local" type="B" value="0"/>
+					<Prp name="name" type="S" value="DownloadButtonWaitTime"/>
+					<Prp name="type" type="S" value="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}"/>
+				</Node>
+				<Node name="var8">
+					<Node name="defvalue">
+						<Prp name="intvalue" type="I" value="2"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value="540069006D006500200074006F0020005700610069007400200066006F007200200044006F0077006E006C006F00610064002000570069006E0064006F007700200069006E0020006300680072006F006D0065002000280073006500630073002900200028004E006F007400650073003A00200048006100760069006E006700200068006900670068002000760061006C007500650020006D00610079002000640065006C0061007900200065007800650063007500740069006F006E0020006900660020006F0062006A0065006300740020006900730020006E006F007400200061007600610069006C00610062006C00650020002900"/>
+					<Prp name="local" type="B" value="0"/>
+					<Prp name="name" type="S" value="ChromeSaveAsWaitTime"/>
+					<Prp name="type" type="S" value="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}"/>
+				</Node>
+				<Node name="var9">
+					<Node name="defvalue">
+						<Prp name="intvalue" type="I" value="2"/>
+					</Node>
+					<Prp name="category" type="H" value=" "/>
+					<Prp name="descr" type="H" value="540069006D006500200074006F0020005700610069007400200066006F007200200049004500200053006500630075007200690074007900200054006F00700020004200610072002000280073006500630073002900200028004E006F007400650073003A00200048006100760069006E006700200068006900670068002000760061006C007500650020006D00610079002000640065006C0061007900200065007800650063007500740069006F006E0020006900660020006F0062006A0065006300740020006900730020006E006F007400200061007600610069006C00610062006C00650020002900"/>
+					<Prp name="local" type="B" value="0"/>
+					<Prp name="name" type="S" value="IESecurityBarWaitTime"/>
+					<Prp name="type" type="S" value="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}"/>
 				</Node>
 			</Node>
 			<Prp name="key" type="S" value="{D9134F4B-AC9D-4DF4-AF85-046E773143C6}"/>
