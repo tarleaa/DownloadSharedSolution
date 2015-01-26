@@ -25,7 +25,7 @@
 					<Node name="runmodeparams">
 						<Node name="simple">
 							<Prp name="filename" type="S" value="firefox.exe"/>
-							<Prp name="filepath" type="S" value="C:\Program Files (x86)\Mozilla Firefox\"/>
+							<Prp name="filepath" type="S" value="%ProgramFiles%\Mozilla Firefox\"/>
 						</Node>
 						<Prp name="activerunmode" type="S" value="Simple"/>
 					</Node>
