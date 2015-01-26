@@ -31,7 +31,7 @@
 					</Node>
 					<Node name="var1">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="68007400740070003A002F002F0064006F0077006E006C006F00610064002E0063006E00650074002E0063006F006D00"/>
+							<Prp name="strvalue" type="H" value="68007400740070003A002F002F0064006F0077006E006C006F00610064002E00730074006100670065002E0063006E00650074002E0063006F006D00"/>
 						</Node>
 						<Prp name="name" type="S" value="ServerName"/>
 					</Node>
@@ -43,13 +43,13 @@
 					</Node>
 					<Node name="var2">
 						<Node name="value">
-							<Prp name="intvalue" type="I" value="11"/>
+							<Prp name="intvalue" type="I" value="8"/>
 						</Node>
 						<Prp name="name" type="S" value="IEVersion"/>
 					</Node>
 					<Node name="var3">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="660069007200650066006F007800"/>
+							<Prp name="strvalue" type="H" value="69006500780070006C006F0072006500"/>
 						</Node>
 						<Prp name="name" type="S" value="CurrentBrowser"/>
 					</Node>
