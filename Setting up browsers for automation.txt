@@ -5,6 +5,7 @@ Internet Explorer:
  - remove any non-essential add-ons
  - make sure all IE updates are installed (from Windows Updates)
  - for IE11, make sure you run (once for every machine) the "TabProcGrowth.reg" registry file. After that, please verify that the TabProcGrowth key value was added in the registry on the following path: "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\". Failure to do this will make the tests fail.
+ - for IE8: Tools - Internet Explorer - Advanced. Check 'Notify when Downloads Complete' option.
 
 Chrome:
  - make sure the SmartBear TestComplete Extension is installed and enabled (from Tools - Extensions)
@@ -17,10 +18,7 @@ Chrome:
  
 Firefox:
  - make sure the home page is set to 'about:blank': go to Tools - Options - General tab. Choose 'Show a blank page' from 'When Firefox starts' dropdown. On the Home Page filed, set the page to 'about:blank'.
-<<<<<<< HEAD
  - set the download to automatically start: go to Tools - Options - General tab. Choose the 'Always ask me where to save files'.
-=======
->>>>>>> origin/master
  - turn off Fireofx updates: Tools - Options - Advanced tab - Update sub-tab: choose the 'Never check for updates' option (this option is desired as TestComplete needs a 'hook' added for each new FF version. In case the 'hook' is not added, most likely the tests will fail using the new FF version)
  - activate the menu bar: if the menu bar is not visible (top bar with File, Edit, View, History, Bookmarks, Tools and Help menus), press the Alt key and it will become visible. Then go to View - Toolbars and check Menu Bar option.
  - make sure you have installed the correct 'hook' for your version of Firefox, from this link: http://support.smartbear.com/downloads/testcomplete/firefox-patches/.
@@ -33,3 +31,10 @@ NEW:
  
  
 Note: /Downloads folder should regularly be emptied: due to the fact that some files that are being downloaded from Download.com are small, most likely the download will finish and the files will be saved to disk. The folder will need to be emptied from time to time to avoid low disk space on drive C.
+
+
+TestComplete Settngs:
+
+Unselect all Object Identifiers:
+ - Go to Tools - Current Project settings: Open Applications | Web Testing | Object Identification and unselect all its identifiers.
+ - Go to Tools - Default Project Settings: Project | Open Applications | Web Testing | Object Identificatio
