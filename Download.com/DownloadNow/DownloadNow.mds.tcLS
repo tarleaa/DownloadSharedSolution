@@ -49,7 +49,7 @@
 					</Node>
 					<Node name="var3">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="69006500780070006C006F0072006500"/>
+							<Prp name="strvalue" type="H" value="660069007200650066006F007800"/>
 						</Node>
 						<Prp name="name" type="S" value="CurrentBrowser"/>
 					</Node>
