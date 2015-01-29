@@ -559,7 +559,7 @@
 			</Node>
 			<Node name="{bf9b6482-cea1-4402-ba61-9702404f1f12}">
 				<Prp name="type" type="I" value="1"/>
-				<Prp name="value" type="B" value="0"/>
+				<Prp name="value" type="B" value="-1"/>
 			</Node>
 			<Node name="{c3267834-69e4-4cd8-b16a-b60a9bb8a3b4}">
 				<Prp name="type" type="I" value="1"/>
@@ -919,7 +919,7 @@
 			</Node>
 			<Node name="{e5242a20-9b70-4540-aefd-7012791d3284}">
 				<Prp name="type" type="I" value="1"/>
-				<Prp name="value" type="B" value="0"/>
+				<Prp name="value" type="B" value="-1"/>
 			</Node>
 			<Node name="{ef07b18f-c1b0-489e-84ef-a6a0a578c45c}">
 				<Prp name="col0enabled" type="B" value="-1"/>
@@ -1271,7 +1271,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{8720855B-AAD2-4C16-83A9-04613136B353}"/>
@@ -1383,7 +1383,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{6E664170-D6BC-4160-972E-3FD12C24EAD5}"/>
@@ -1495,7 +1495,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{E5A0BA92-AE6A-45E2-8ECC-2E8F9FFE66F1}"/>
@@ -1609,7 +1609,7 @@
 													</Node>
 													<Prp name="count" type="I" value="1"/>
 													<Prp name="description" type="S" value=""/>
-													<Prp name="enabled" type="B" value="0"/>
+													<Prp name="enabled" type="B" value="-1"/>
 													<Prp name="group" type="B" value="0"/>
 													<Prp name="index" type="I" value="2"/>
 													<Prp name="key" type="S" value="{5133EAC2-9E0B-4044-BFE3-F7C1BC8EB791}"/>
@@ -1721,7 +1721,7 @@
 													</Node>
 													<Prp name="count" type="I" value="1"/>
 													<Prp name="description" type="S" value=""/>
-													<Prp name="enabled" type="B" value="0"/>
+													<Prp name="enabled" type="B" value="-1"/>
 													<Prp name="group" type="B" value="0"/>
 													<Prp name="index" type="I" value="2"/>
 													<Prp name="key" type="S" value="{19A5648B-CCBD-441F-A023-ADFDF0C10A53}"/>
@@ -1735,7 +1735,7 @@
 											<Node name="test parameters"/>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="-1"/>
 											<Prp name="index" type="I" value="1"/>
 											<Prp name="key" type="S" value="{6E3F766D-F8F9-47F1-A06B-8598BA08ED69}"/>
@@ -1833,7 +1833,7 @@
 													</Node>
 													<Prp name="count" type="I" value="1"/>
 													<Prp name="description" type="S" value=""/>
-													<Prp name="enabled" type="B" value="0"/>
+													<Prp name="enabled" type="B" value="-1"/>
 													<Prp name="group" type="B" value="0"/>
 													<Prp name="index" type="I" value="2"/>
 													<Prp name="key" type="S" value="{36994030-3071-45E2-A973-C0AE44A98895}"/>
@@ -1847,7 +1847,7 @@
 											<Node name="test parameters"/>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="-1"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{2B033C4C-D3ED-4C47-ACD3-0948AA244C08}"/>
@@ -1959,7 +1959,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{CC2DAE09-9F02-4B38-BB0E-A9BEF032314F}"/>
@@ -2071,7 +2071,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{DF1F96C2-3E51-4104-83DF-0BC3FB1D6C42}"/>
@@ -2183,7 +2183,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{1FC4415C-8EB4-4CC7-AE79-713645D7CEBA}"/>
@@ -2309,7 +2309,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="0"/>
+									<Prp name="enabled" type="B" value="-1"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{0BEB18C9-4DF7-4CAF-8F2E-C7C67B31CA2B}"/>
@@ -2423,7 +2423,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{3291E317-30F4-4A37-A2EC-05378129D5EE}"/>
@@ -2535,7 +2535,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{930200EF-BA4E-4D67-8973-7CA4BC106911}"/>
@@ -2663,7 +2663,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{FD771C11-E399-4265-BFE1-04D392D6B7C1}"/>
@@ -2775,7 +2775,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{8D915059-E544-42CD-AA62-906D1DF911DF}"/>
@@ -2887,7 +2887,7 @@
 											</Node>
 											<Prp name="count" type="I" value="1"/>
 											<Prp name="description" type="S" value=""/>
-											<Prp name="enabled" type="B" value="0"/>
+											<Prp name="enabled" type="B" value="-1"/>
 											<Prp name="group" type="B" value="0"/>
 											<Prp name="index" type="I" value="2"/>
 											<Prp name="key" type="S" value="{201D7987-3786-4C73-827F-E958D9F169DE}"/>
@@ -3013,7 +3013,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="0"/>
+									<Prp name="enabled" type="B" value="-1"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{2E657731-0528-47C9-AE08-FB93B7B0499E}"/>
@@ -3125,7 +3125,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="0"/>
+									<Prp name="enabled" type="B" value="-1"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{1946A9E2-AAB1-4F4C-A36C-85DED541768A}"/>
@@ -3237,7 +3237,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="0"/>
+									<Prp name="enabled" type="B" value="-1"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{32AE6B90-167C-40F1-8A96-57D6A8804B75}"/>
@@ -3349,7 +3349,7 @@
 									</Node>
 									<Prp name="count" type="I" value="1"/>
 									<Prp name="description" type="S" value=""/>
-									<Prp name="enabled" type="B" value="0"/>
+									<Prp name="enabled" type="B" value="-1"/>
 									<Prp name="group" type="B" value="0"/>
 									<Prp name="index" type="I" value="2"/>
 									<Prp name="key" type="S" value="{8EDE2A7A-10D1-4775-81F2-786FB834B6C1}"/>
@@ -3377,11 +3377,3003 @@
 					<Node name="test parameters"/>
 					<Prp name="count" type="I" value="1"/>
 					<Prp name="description" type="S" value=""/>
-					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="enabled" type="B" value="0"/>
 					<Prp name="group" type="B" value="-1"/>
 					<Prp name="index" type="I" value="0"/>
 					<Prp name="key" type="S" value="{C6AD83B7-7595-4D22-8390-527DBC406A23}"/>
-					<Prp name="name" type="S" value="DownloadButton"/>
+					<Prp name="name" type="S" value="DownloadButton (tests grouped by page type)"/>
+					<Prp name="stoponerror" type="I" value="2"/>
+					<Prp name="stoponexception" type="I" value="2"/>
+					<Prp name="test moniker" type="S" value=""/>
+					<Prp name="timeout" type="I" value="0"/>
+				</Node>
+				<Node name="item0000000001">
+					<Node name="child list">
+						<Node name="item0000000000">
+							<Node name="child list">
+								<Node name="item0000000000">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{5A1F0C2A-4103-4D3A-91F6-74FDC7D58F0B}"/>
+													<Prp name="name" type="S" value="3000_Standard_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{2A730BFC-5503-4B9D-B9CA-BF2C572CD145}"/>
+											<Prp name="name" type="S" value="3000_Standard"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Publisher Hosted"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{759BD869-7929-4270-9E71-87FA05712EBC}"/>
+													<Prp name="name" type="S" value="3000_PublisherHosted_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{FAC0361A-3982-4EAD-A153-1E76480F4844}"/>
+											<Prp name="name" type="S" value="3000_PublisherHosted"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{5E48D4BE-EAFA-43F4-A56F-9FC0ACEA13A7}"/>
+													<Prp name="name" type="S" value="3000_DLMProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{8FBE8F06-D34A-4511-B404-6BF026F7F8D4}"/>
+											<Prp name="name" type="S" value="3000_DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000003">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Download)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="iexplore"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{82CDF9AC-A8B1-4005-B2B9-E31068DCFB12}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Download)_IE"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{5178CB1E-9AE3-4968-A861-35CD5B3D310C}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Download)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000001">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, pop up)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="iexplore"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{3586AD4D-BA5F-4B70-8D51-144E5A8B20CB}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)_IE"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="key" type="S" value="{5590B3DC-B361-4B7D-912B-75980F407C57}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000002">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, main window)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="iexplore"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{8F2346F1-6FBE-40D4-9FB2-D2B2512AF09E}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)_IE"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="2"/>
+													<Prp name="key" type="S" value="{A87C778D-B4DE-4788-9DE9-BD284564F5BE}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="3"/>
+											<Prp name="key" type="S" value="{B7BC4A89-71C5-44A0-8AC6-C8DDA054EE30}"/>
+											<Prp name="name" type="S" value="3000_OffsitePopUp"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000004">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Archived Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{4CBA99A5-97F7-43DA-A105-5DDA0201F9D9}"/>
+													<Prp name="name" type="S" value="3000_ArchivedProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="4"/>
+											<Prp name="key" type="S" value="{8FE21224-D910-4196-9448-0E902A6EBBE5}"/>
+											<Prp name="name" type="S" value="3000_ArchivedProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000005">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iOS Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{7950A0F2-AD07-4018-A58A-5FC6A11102C2}"/>
+													<Prp name="name" type="S" value="3000_iOSProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="5"/>
+											<Prp name="key" type="S" value="{4C121785-FD41-4013-B5BB-5AF23E643139}"/>
+											<Prp name="name" type="S" value="3000_iOSProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000006">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Android Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{3D50C2B7-8EA4-4522-85C3-00EFDD81C5B2}"/>
+													<Prp name="name" type="S" value="3000_AndroidProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="6"/>
+											<Prp name="key" type="S" value="{ABA3B8C1-3C91-4E25-B692-205264747D9F}"/>
+											<Prp name="name" type="S" value="3000_AndroidProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{C29FEF0B-75F7-46B7-BDBB-EF6288D19296}"/>
+									<Prp name="name" type="S" value="ProductDetails3000Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000001">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="iexplore"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{2616D085-9480-4F74-9F5F-E9148217E7D1}"/>
+											<Prp name="name" type="S" value="PostDownload3001_IE"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{8639AF6B-0AE8-46F9-A415-A9A15EAB0ACE}PostDw3001"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{65C4C0CD-C5B7-4A78-BE14-D5E19F1FD39B}"/>
+									<Prp name="name" type="S" value="PostDownload3001Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000002">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3000 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{0F579634-A405-4679-ACAF-EB57F0A1CF84}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3000_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{E69D5476-2A5E-407A-9A5B-BC46883C883D}"/>
+											<Prp name="name" type="S" value="Avast3000Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3001 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{D0428954-EF81-4F85-ACD3-7E2FA5356346}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3001_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{790ECC46-10DB-430D-96FD-12DB43C8C53F}"/>
+											<Prp name="name" type="S" value="Avast3001Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="2"/>
+									<Prp name="key" type="S" value="{DBC44F0D-B5DC-470B-9CFB-285680B09A39}"/>
+									<Prp name="name" type="S" value="AvastOnlyHLPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000003">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{FC8012B2-5E78-4498-808C-C549F1802E0B}"/>
+													<Prp name="name" type="S" value="BP3000BP_StandardProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{7D37E1C6-7892-4C7D-976F-57B0276893B0}"/>
+											<Prp name="name" type="S" value="StandardProduct&#xA;"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="VIP Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{B5766AD2-1F99-446F-B271-9A24DE052302}"/>
+													<Prp name="name" type="S" value="BP3000BP_VIPProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{8D698EC1-CFD1-4FD9-9848-D4E7CD8223EB}"/>
+											<Prp name="name" type="S" value="VIPProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iexplore"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{7203CDF4-2E1D-4D3A-85E1-D691D820CD46}"/>
+													<Prp name="name" type="S" value="BP3000BP_DLMProduct_IE"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{C40930B3-D510-4F78-94C8-71A7F52CF7AF}"/>
+											<Prp name="name" type="S" value="DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="3"/>
+									<Prp name="key" type="S" value="{232C855C-C2FF-41C6-BD24-A9288E5D8DFF}"/>
+									<Prp name="name" type="S" value="ButtonPartner3000BPPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000004">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="iexplore"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{3A7F80C4-A503-47C6-ADBF-E7EC8BCA9678}"/>
+											<Prp name="name" type="S" value="OptimizedSEM3011_IE"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{39BDD809-B41F-405B-97E8-F0A69E618AAB}OptimizedSEM3011"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="4"/>
+									<Prp name="key" type="S" value="{7C1C6990-5741-488A-8613-810D7F20BD00}"/>
+									<Prp name="name" type="S" value="OptimizedSEM3011Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000005">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DLM Product"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="iexplore"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{0F416934-E887-4CA8-A7DB-73811E83A75C}"/>
+											<Prp name="name" type="S" value="SEM3028Page_IE"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{06E6F8EC-176A-4316-8515-DBB88B771BEE}SEM3028"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="5"/>
+									<Prp name="key" type="S" value="{BFF8FCD0-6F73-4B20-9B66-FB6C164FCB6E}"/>
+									<Prp name="name" type="S" value="SEMLanding3028Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000006">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="iexplore"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{242ACEA6-C136-4E81-946E-669A3589456B}"/>
+											<Prp name="name" type="S" value="SEMAvast3014Pages_IE"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{85BC87FE-06AF-4464-8964-E0930A4E51F0}OptimizedSEM3014"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="6"/>
+									<Prp name="key" type="S" value="{6D55534C-C21F-4E66-BD6D-86BFE5C570B6}"/>
+									<Prp name="name" type="S" value="OptimizedSEMAvast3014Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000007">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="iexplore"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{B8815AA1-38B1-4A51-A038-86833B937203}"/>
+											<Prp name="name" type="S" value="Redirect3055_IE"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{EFCBFED2-E6F6-4D74-99F0-5EBF7EDA8339}Redirect3055"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="7"/>
+									<Prp name="key" type="S" value="{B426D0A4-DEA4-4731-877E-93E4157CB1FC}"/>
+									<Prp name="name" type="S" value="Redirect3055Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+							</Node>
+							<Node name="test parameters"/>
+							<Prp name="count" type="I" value="1"/>
+							<Prp name="description" type="S" value=""/>
+							<Prp name="enabled" type="B" value="-1"/>
+							<Prp name="group" type="B" value="-1"/>
+							<Prp name="index" type="I" value="0"/>
+							<Prp name="key" type="S" value="{70C452FA-948B-41BD-B8D2-BDE4C85C664A}"/>
+							<Prp name="name" type="S" value="IE"/>
+							<Prp name="stoponerror" type="I" value="2"/>
+							<Prp name="stoponexception" type="I" value="2"/>
+							<Prp name="test moniker" type="S" value=""/>
+							<Prp name="timeout" type="I" value="0"/>
+						</Node>
+						<Node name="item0000000001">
+							<Node name="child list">
+								<Node name="item0000000000">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{1C572064-F3CB-4A5A-AD00-8A54E78A8448}"/>
+													<Prp name="name" type="S" value="3000_Standard_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{6D39B00C-53D0-44C3-86F0-78D49407C620}"/>
+											<Prp name="name" type="S" value="3000_Standard"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Publisher Hosted"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{D207A33E-673E-48DB-B9A5-4CDA9E3A7EB3}"/>
+													<Prp name="name" type="S" value="3000_PublisherHosted_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{782C2DB8-35DE-420E-9C24-DFE127F26349}"/>
+											<Prp name="name" type="S" value="3000_PublisherHosted"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{B3FAE102-0A63-4369-87BC-3A3F7BE87C49}"/>
+													<Prp name="name" type="S" value="3000_DLMProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{08C28E9D-1AE8-4803-80C3-5F4D0A5EDF38}"/>
+											<Prp name="name" type="S" value="3000_DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000003">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Download)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="chrome"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{BC811F4F-28C2-417E-B9AE-CF91D6CBF197}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Download)_Chrome"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{8810837A-F9FE-4F82-A9BC-48970F4C4847}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Download)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000001">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, pop up)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="chrome"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{3077F14D-FC94-42AB-B512-DA8E18B5E26A}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)_Chrome"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="key" type="S" value="{7F1B5CD8-4421-46C5-8EB0-C825AAB62303}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000002">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, main window)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="chrome"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{B4D6DD5A-4199-4BE2-A75C-6087ABEEE682}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)_Chrome"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="2"/>
+													<Prp name="key" type="S" value="{27434261-F376-4564-9954-A1F438117923}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="3"/>
+											<Prp name="key" type="S" value="{B1F93842-C015-4589-B13F-9AB82FA9F10F}"/>
+											<Prp name="name" type="S" value="3000_OffsitePopUp"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000004">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Archived Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{CAFE3A08-14E2-4E5A-9FEB-736AA6B9BF99}"/>
+													<Prp name="name" type="S" value="3000_ArchivedProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="4"/>
+											<Prp name="key" type="S" value="{CF76A71F-4125-47F2-ACC5-E4C537BE6039}"/>
+											<Prp name="name" type="S" value="3000_ArchivedProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000005">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iOS Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{E33C06D8-DCE2-4D05-92B9-9667C11BE0EA}"/>
+													<Prp name="name" type="S" value="3000_iOSProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="5"/>
+											<Prp name="key" type="S" value="{8BF5253B-3F69-4CF0-A48A-73CA90106049}"/>
+											<Prp name="name" type="S" value="3000_iOSProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000006">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Android Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{4C6B1634-2FF3-46F5-8AAD-F3E6C685475E}"/>
+													<Prp name="name" type="S" value="3000_AndroidProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="6"/>
+											<Prp name="key" type="S" value="{55813CFC-D17D-43C5-955D-E1C690A4994B}"/>
+											<Prp name="name" type="S" value="3000_AndroidProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{49B33352-6D4C-445F-AFA1-B5D5E0CCF06E}"/>
+									<Prp name="name" type="S" value="ProductDetails3000Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000001">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="chrome"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{F0DB44D1-638A-46E1-81D4-D6E931EDCE1D}"/>
+											<Prp name="name" type="S" value="PostDownload3001_Chrome"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{8639AF6B-0AE8-46F9-A415-A9A15EAB0ACE}PostDw3001"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{DF49FF8C-B781-440D-B207-4AC69DC77758}"/>
+									<Prp name="name" type="S" value="PostDownload3001Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000002">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3000 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{229C205A-1E64-4BA7-9E16-D62E0CFC7784}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3000_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{B839562E-9BA0-4B7F-B89B-C3B77A6959C4}"/>
+											<Prp name="name" type="S" value="Avast3000Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3001 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{2D50A6DF-086A-40CF-A9B1-543E8068A389}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3001_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{D2C42290-E402-4B17-898E-731383365A1F}"/>
+											<Prp name="name" type="S" value="Avast3001Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="2"/>
+									<Prp name="key" type="S" value="{36797B28-C6D7-497A-A4BE-3D23E66D0FF7}"/>
+									<Prp name="name" type="S" value="AvastOnlyHLPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000003">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{DAEF6F2E-DB4E-452E-BE4C-CB00C835971B}"/>
+													<Prp name="name" type="S" value="BP3000BP_StandardProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{827EBAF4-C3B4-4DC7-967C-3AC9C3054087}"/>
+											<Prp name="name" type="S" value="StandardProduct&#xA;"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="VIP Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{DFC6AEE1-726F-4A1A-94CB-032EA65E28A6}"/>
+													<Prp name="name" type="S" value="BP3000BP_VIPProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{DB43F043-7868-4020-BE1A-B981465C8AC5}"/>
+											<Prp name="name" type="S" value="VIPProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="chrome"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{A8AC049D-AF96-4A3A-83AE-E157BE27A152}"/>
+													<Prp name="name" type="S" value="BP3000BP_DLMProduct_Chrome"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{7A292F4E-B1B9-4358-B066-1E1C097EB554}"/>
+											<Prp name="name" type="S" value="DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="3"/>
+									<Prp name="key" type="S" value="{E768D7B0-440C-48F0-9D2D-17354E741249}"/>
+									<Prp name="name" type="S" value="ButtonPartner3000BPPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000004">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="chrome"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{AFAA8100-8C99-48B1-BD32-AF26A1440B29}"/>
+											<Prp name="name" type="S" value="OptimizedSEM3011_Chrome"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{39BDD809-B41F-405B-97E8-F0A69E618AAB}OptimizedSEM3011"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="4"/>
+									<Prp name="key" type="S" value="{F3ED827E-5EEB-421A-A250-B8A07DD3E6EA}"/>
+									<Prp name="name" type="S" value="OptimizedSEM3011Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000005">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DLM Product"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="chrome"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{98EF0B30-CE0F-4360-811A-EBC22F1B3645}"/>
+											<Prp name="name" type="S" value="SEM3028Page_Chrome"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{06E6F8EC-176A-4316-8515-DBB88B771BEE}SEM3028"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="5"/>
+									<Prp name="key" type="S" value="{0B20DDB7-88DE-4DF4-AC3D-B3A17A462BDD}"/>
+									<Prp name="name" type="S" value="SEMLanding3028Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000006">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="chrome"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{D597779C-0BE8-4F52-9151-FD6219E042F2}"/>
+											<Prp name="name" type="S" value="SEMAvast3014Pages_Chrome"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{85BC87FE-06AF-4464-8964-E0930A4E51F0}OptimizedSEM3014"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="6"/>
+									<Prp name="key" type="S" value="{37BF488F-08D6-41F6-B560-A024024FC689}"/>
+									<Prp name="name" type="S" value="OptimizedSEMAvast3014Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000007">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="chrome"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{5F74EBA2-46F1-40C7-A46F-01BD7E76484F}"/>
+											<Prp name="name" type="S" value="Redirect3055_Chrome"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{EFCBFED2-E6F6-4D74-99F0-5EBF7EDA8339}Redirect3055"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="7"/>
+									<Prp name="key" type="S" value="{7A2752A3-72C0-40C0-ADB3-62A1F357966C}"/>
+									<Prp name="name" type="S" value="Redirect3055Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+							</Node>
+							<Node name="test parameters"/>
+							<Prp name="count" type="I" value="1"/>
+							<Prp name="description" type="S" value=""/>
+							<Prp name="enabled" type="B" value="-1"/>
+							<Prp name="group" type="B" value="-1"/>
+							<Prp name="index" type="I" value="1"/>
+							<Prp name="key" type="S" value="{9D35CE3B-F017-47C2-8022-72B465A1E31C}"/>
+							<Prp name="name" type="S" value="Chrome"/>
+							<Prp name="stoponerror" type="I" value="2"/>
+							<Prp name="stoponexception" type="I" value="2"/>
+							<Prp name="test moniker" type="S" value=""/>
+							<Prp name="timeout" type="I" value="0"/>
+						</Node>
+						<Node name="item0000000002">
+							<Node name="child list">
+								<Node name="item0000000000">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{6047E86E-6644-46F0-B392-6062CD994CF4}"/>
+													<Prp name="name" type="S" value="3000_Standard_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{3CB4B78D-1927-465B-8729-3CA9F5C39B84}"/>
+											<Prp name="name" type="S" value="3000_Standard"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Publisher Hosted"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{42125B68-E141-4807-BC64-6697EFDA4A0A}"/>
+													<Prp name="name" type="S" value="3000_PublisherHosted_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{5D9D564C-E097-47A3-9C3F-3E9226A1B035}"/>
+											<Prp name="name" type="S" value="3000_PublisherHosted"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value="iexplore, firefox, chrome"/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{9F118438-3025-4E3A-9510-A1ECB3991333}"/>
+													<Prp name="name" type="S" value="3000_DLMProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{352FA60F-DBC3-48D7-A74A-E7B77CBFC098}"/>
+											<Prp name="name" type="S" value="3000_DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000003">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Download)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="firefox"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{B7A4B3C2-7167-4426-95D0-2AADAB610F93}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Download)_Firefox"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{395E3FAF-0D05-48E5-B24C-4F226C12A265}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Download)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000001">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, pop up)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="firefox"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{98F7F6A3-302A-4C29-99E5-D4DD0B2F2465}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)_Firefox"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="key" type="S" value="{EE01DD85-C373-4A43-8D90-BB5FDE6FAC52}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page, pop up)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+												<Node name="item0000000002">
+													<Node name="child list">
+														<Node name="item0000000000">
+															<Node name="child list"/>
+															<Node name="test parameters">
+																<Node name="param0">
+																	<Prp name="index" type="I" value="0"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="variationType"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="Offsite Popup (Web Page, main window)"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+																<Node name="param1">
+																	<Prp name="index" type="I" value="1"/>
+																	<Prp name="localvarname" type="S" value=""/>
+																	<Prp name="name" type="S" value="browserName"/>
+																	<Prp name="type" type="I" value="3"/>
+																	<Prp name="value" type="S" value="firefox"/>
+																	<Prp name="vartype" type="I" value="8"/>
+																</Node>
+															</Node>
+															<Prp name="count" type="I" value="1"/>
+															<Prp name="description" type="S" value=""/>
+															<Prp name="enabled" type="B" value="-1"/>
+															<Prp name="group" type="B" value="0"/>
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="key" type="S" value="{A319FBDE-78E0-4A5C-A277-A555BFD813FF}"/>
+															<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)_Firefox"/>
+															<Prp name="stoponerror" type="I" value="2"/>
+															<Prp name="stoponexception" type="I" value="2"/>
+															<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+															<Prp name="timeout" type="I" value="0"/>
+														</Node>
+													</Node>
+													<Node name="test parameters"/>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="-1"/>
+													<Prp name="index" type="I" value="2"/>
+													<Prp name="key" type="S" value="{3F962180-5F1C-4706-BB7B-8C8F1723301C}"/>
+													<Prp name="name" type="S" value="3000_OffsitePopUp(Web Page. main)"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value=""/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="3"/>
+											<Prp name="key" type="S" value="{5F486116-65F4-47F3-A224-85B64E186E82}"/>
+											<Prp name="name" type="S" value="3000_OffsitePopUp"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000004">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Archived Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{95240A42-677A-4143-B95F-CC2E8CE0FF23}"/>
+													<Prp name="name" type="S" value="3000_ArchivedProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="4"/>
+											<Prp name="key" type="S" value="{0B458205-8EE3-4BB5-B5BB-AE3D6614672B}"/>
+											<Prp name="name" type="S" value="3000_ArchivedProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000005">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="iOS Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{2C49EAF9-4C7E-4E1C-82CA-59B37EA3179E}"/>
+													<Prp name="name" type="S" value="3000_iOSProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="5"/>
+											<Prp name="key" type="S" value="{48E9A0FE-0DA5-49CD-A082-A21D2C4DFA8E}"/>
+											<Prp name="name" type="S" value="3000_iOSProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000006">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Android Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{28538D22-1F87-46E6-AF57-B75DDF2C6B05}"/>
+													<Prp name="name" type="S" value="3000_AndroidProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{C5E90B4B-C28C-4C98-A64B-935219219BE7}PD3000_AllPages"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="6"/>
+											<Prp name="key" type="S" value="{C3E576AF-7AE7-4AD4-A801-0766238DBE42}"/>
+											<Prp name="name" type="S" value="3000_AndroidProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{B8EB2BB1-B03F-4EF0-9189-BF7A7FB18D44}"/>
+									<Prp name="name" type="S" value="ProductDetails3000Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000001">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="firefox"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{1C3B08F7-EDAD-4638-A776-B3EE06E46FE3}"/>
+											<Prp name="name" type="S" value="PostDownload3001_Firefox"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{8639AF6B-0AE8-46F9-A415-A9A15EAB0ACE}PostDw3001"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="1"/>
+									<Prp name="key" type="S" value="{AAFBFC41-1043-4718-8C1D-19F85A5FDD94}"/>
+									<Prp name="name" type="S" value="PostDownload3001Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000002">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3000 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{6B018434-5E75-4DD5-AD29-459BEAC5C5B6}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3000_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{5FC556B9-F4AF-4B20-8213-064748EF57C5}"/>
+											<Prp name="name" type="S" value="Avast3000Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Avast 3001 BP"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{17DD717B-20FF-49CA-9739-43ADB671FEFE}"/>
+													<Prp name="name" type="S" value="AvastOnlyHL3001_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{278A16F2-1616-4DAB-B06D-7DF0F1002892}AvastOnlyHL"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{60DBB0CB-7317-4A3E-BED7-84482BA4CA9C}"/>
+											<Prp name="name" type="S" value="Avast3001Page"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="2"/>
+									<Prp name="key" type="S" value="{DCCA5BB8-53FA-4A5B-A366-4B74513F8B03}"/>
+									<Prp name="name" type="S" value="AvastOnlyHLPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000003">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="Standard"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{3BFFD94E-5956-4670-9CA5-87A37561EF28}"/>
+													<Prp name="name" type="S" value="BP3000BP_StandardProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{0A4DC648-65ED-40EE-835C-7E237D89208D}"/>
+											<Prp name="name" type="S" value="StandardProduct&#xA;"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000001">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="VIP Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{6640253B-CF71-4F05-ABDD-7D99EB4B85AC}"/>
+													<Prp name="name" type="S" value="BP3000BP_VIPProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="1"/>
+											<Prp name="key" type="S" value="{E151C67F-E225-423E-97DE-42810C8F74F3}"/>
+											<Prp name="name" type="S" value="VIPProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+										<Node name="item0000000002">
+											<Node name="child list">
+												<Node name="item0000000000">
+													<Node name="child list"/>
+													<Node name="test parameters">
+														<Node name="param0">
+															<Prp name="index" type="I" value="0"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="variationType"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="DLM Product"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+														<Node name="param1">
+															<Prp name="index" type="I" value="1"/>
+															<Prp name="localvarname" type="S" value=""/>
+															<Prp name="name" type="S" value="browserName"/>
+															<Prp name="type" type="I" value="3"/>
+															<Prp name="value" type="S" value="firefox"/>
+															<Prp name="vartype" type="I" value="8"/>
+														</Node>
+													</Node>
+													<Prp name="count" type="I" value="1"/>
+													<Prp name="description" type="S" value=""/>
+													<Prp name="enabled" type="B" value="-1"/>
+													<Prp name="group" type="B" value="0"/>
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="key" type="S" value="{2DE5F269-6FDA-4A5F-A1C7-EB240B03E05A}"/>
+													<Prp name="name" type="S" value="BP3000BP_DLMProduct_Firefox"/>
+													<Prp name="stoponerror" type="I" value="2"/>
+													<Prp name="stoponexception" type="I" value="2"/>
+													<Prp name="test moniker" type="S" value="{819C9533-0925-4DD6-98E0-AF066146F0FB}ButtonPartner3000BP"/>
+													<Prp name="timeout" type="I" value="0"/>
+												</Node>
+											</Node>
+											<Node name="test parameters"/>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="-1"/>
+											<Prp name="index" type="I" value="2"/>
+											<Prp name="key" type="S" value="{00B6E262-C421-40F9-8984-73277D191BFD}"/>
+											<Prp name="name" type="S" value="DLMProduct"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value=""/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="3"/>
+									<Prp name="key" type="S" value="{471BB996-B2A1-495A-989D-566F576E07CE}"/>
+									<Prp name="name" type="S" value="ButtonPartner3000BPPages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000004">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="firefox"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{93AF10D4-2F5F-447E-8AC1-AE3C3AE761FC}"/>
+											<Prp name="name" type="S" value="OptimizedSEM3011_Firefox"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{39BDD809-B41F-405B-97E8-F0A69E618AAB}OptimizedSEM3011"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="4"/>
+									<Prp name="key" type="S" value="{EEA572AF-06DF-493E-B2CA-A1F03BCD7CC9}"/>
+									<Prp name="name" type="S" value="OptimizedSEM3011Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000005">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DLM Product"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="firefox"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{CA0C81C5-F20B-4060-8D29-5609BF773D38}"/>
+											<Prp name="name" type="S" value="SEM3028Page_Firefox"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{06E6F8EC-176A-4316-8515-DBB88B771BEE}SEM3028"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="5"/>
+									<Prp name="key" type="S" value="{80697C47-4239-49A2-9CC3-5C84F7F80E0F}"/>
+									<Prp name="name" type="S" value="SEMLanding3028Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000006">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="Standard"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="firefox"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{6D030D97-A1A0-410E-B979-92628F285391}"/>
+											<Prp name="name" type="S" value="SEMAvast3014Pages_Firefox"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{85BC87FE-06AF-4464-8964-E0930A4E51F0}OptimizedSEM3014"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="6"/>
+									<Prp name="key" type="S" value="{2642C9C3-6DA0-4E0B-9D6C-70461A6A3122}"/>
+									<Prp name="name" type="S" value="OptimizedSEMAvast3014Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+								<Node name="item0000000007">
+									<Node name="child list">
+										<Node name="item0000000000">
+											<Node name="child list"/>
+											<Node name="test parameters">
+												<Node name="param0">
+													<Prp name="index" type="I" value="0"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="variationType"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="DRE Unit"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+												<Node name="param1">
+													<Prp name="index" type="I" value="1"/>
+													<Prp name="localvarname" type="S" value=""/>
+													<Prp name="name" type="S" value="browserName"/>
+													<Prp name="type" type="I" value="3"/>
+													<Prp name="value" type="S" value="firefox"/>
+													<Prp name="vartype" type="I" value="8"/>
+												</Node>
+											</Node>
+											<Prp name="count" type="I" value="1"/>
+											<Prp name="description" type="S" value=""/>
+											<Prp name="enabled" type="B" value="-1"/>
+											<Prp name="group" type="B" value="0"/>
+											<Prp name="index" type="I" value="0"/>
+											<Prp name="key" type="S" value="{A882B249-0CA4-4901-BE6A-BB4BF133B1AE}"/>
+											<Prp name="name" type="S" value="Redirect3055_Firefox"/>
+											<Prp name="stoponerror" type="I" value="2"/>
+											<Prp name="stoponexception" type="I" value="2"/>
+											<Prp name="test moniker" type="S" value="{EFCBFED2-E6F6-4D74-99F0-5EBF7EDA8339}Redirect3055"/>
+											<Prp name="timeout" type="I" value="0"/>
+										</Node>
+									</Node>
+									<Node name="test parameters"/>
+									<Prp name="count" type="I" value="1"/>
+									<Prp name="description" type="S" value=""/>
+									<Prp name="enabled" type="B" value="-1"/>
+									<Prp name="group" type="B" value="-1"/>
+									<Prp name="index" type="I" value="7"/>
+									<Prp name="key" type="S" value="{DA4EAAD7-61D6-4AE2-9135-05BBA155B3AC}"/>
+									<Prp name="name" type="S" value="Redirect3055Pages"/>
+									<Prp name="stoponerror" type="I" value="2"/>
+									<Prp name="stoponexception" type="I" value="2"/>
+									<Prp name="test moniker" type="S" value=""/>
+									<Prp name="timeout" type="I" value="0"/>
+								</Node>
+							</Node>
+							<Node name="test parameters"/>
+							<Prp name="count" type="I" value="1"/>
+							<Prp name="description" type="S" value=""/>
+							<Prp name="enabled" type="B" value="-1"/>
+							<Prp name="group" type="B" value="-1"/>
+							<Prp name="index" type="I" value="2"/>
+							<Prp name="key" type="S" value="{68F70D0D-DCFF-401A-A102-63C6816F73AB}"/>
+							<Prp name="name" type="S" value="Firefox"/>
+							<Prp name="stoponerror" type="I" value="2"/>
+							<Prp name="stoponexception" type="I" value="2"/>
+							<Prp name="test moniker" type="S" value=""/>
+							<Prp name="timeout" type="I" value="0"/>
+						</Node>
+					</Node>
+					<Node name="test parameters"/>
+					<Prp name="count" type="I" value="1"/>
+					<Prp name="description" type="S" value=""/>
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="group" type="B" value="-1"/>
+					<Prp name="index" type="I" value="1"/>
+					<Prp name="key" type="S" value="{376FAD62-6EBD-40E6-AA37-1AFD471B5E8B}"/>
+					<Prp name="name" type="S" value="DownloadButton (tests grouped by browser)"/>
 					<Prp name="stoponerror" type="I" value="2"/>
 					<Prp name="stoponexception" type="I" value="2"/>
 					<Prp name="test moniker" type="S" value=""/>
@@ -3502,7 +6494,7 @@
 				</Node>
 				<Node name="var9">
 					<Node name="defvalue">
-						<Prp name="intvalue" type="I" value="5"/>
+						<Prp name="intvalue" type="I" value="2"/>
 					</Node>
 					<Prp name="category" type="H" value=" "/>
 					<Prp name="descr" type="H" value="540069006D006500200074006F0020005700610069007400200066006F007200200049004500200053006500630075007200690074007900200054006F00700020004200610072002000280073006500630073002900200028004E006F007400650073003A00200048006100760069006E006700200068006900670068002000760061006C007500650020006D00610079002000640065006C0061007900200065007800650063007500740069006F006E0020006900660020006F0062006A0065006300740020006900730020006E006F007400200061007600610069006C00610062006C00650020002900"/>
