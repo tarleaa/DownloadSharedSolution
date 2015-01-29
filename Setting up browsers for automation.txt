@@ -38,3 +38,6 @@ TestComplete Settngs:
 Unselect all Object Identifiers:
  - Go to Tools - Current Project settings: Open Applications | Web Testing | Object Identification and unselect all its identifiers.
  - Go to Tools - Default Project Settings: Project | Open Applications | Web Testing | Object Identificatio
+
+Sytem wide settings: 
+ - make sure the Windows zoom level is set at 100%: Control Panel - Display - Smaller (100%).

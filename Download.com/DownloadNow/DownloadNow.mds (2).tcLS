@@ -35,12 +35,6 @@
 						</Node>
 						<Prp name="name" type="S" value="ServerName"/>
 					</Node>
-					<Node name="var10">
-						<Node name="value">
-							<Prp name="intvalue" type="I" value="0"/>
-						</Node>
-						<Prp name="name" type="S" value="DownloadDelay"/>
-					</Node>
 					<Node name="var2">
 						<Node name="value">
 							<Prp name="intvalue" type="I" value="8"/>
@@ -58,21 +52,6 @@
 							<Prp name="strvalue" type="H" value="570069006E003700"/>
 						</Node>
 						<Prp name="name" type="S" value="CurentOS"/>
-					</Node>
-					<Node name="var5">
-						<Prp name="name" type="S" value="FileNameExtension"/>
-					</Node>
-					<Node name="var6">
-						<Prp name="name" type="S" value="DownloadWaitTime"/>
-					</Node>
-					<Node name="var7">
-						<Prp name="name" type="S" value="DownloadButtonWaitTime"/>
-					</Node>
-					<Node name="var8">
-						<Prp name="name" type="S" value="ChromeSaveAsWaitTime"/>
-					</Node>
-					<Node name="var9">
-						<Prp name="name" type="S" value="IESecurityBarWaitTime"/>
 					</Node>
 				</Node>
 				<Prp name="version" type="I" value="3"/>
