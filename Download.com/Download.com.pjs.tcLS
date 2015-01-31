@@ -27,7 +27,7 @@
 				<Prp name="relpath" type="S" value="DownloadNow\DownloadNow.mds.tcLS"/>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{78289A38-8A27-4B14-80C1-4EDECB486732}"/>
+				<Prp name="key" type="S" value="{732C939C-DF5A-4151-AA94-E38DEE1532BC}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
