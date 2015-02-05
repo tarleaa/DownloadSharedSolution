@@ -41,6 +41,12 @@
 						</Node>
 						<Prp name="name" type="S" value="DownloadDelay"/>
 					</Node>
+					<Node name="var11">
+						<Prp name="name" type="S" value="sendEmailOnError"/>
+					</Node>
+					<Node name="var12">
+						<Prp name="name" type="S" value="toEmailAddress"/>
+					</Node>
 					<Node name="var2">
 						<Node name="value">
 							<Prp name="intvalue" type="I" value="8"/>
@@ -49,7 +55,7 @@
 					</Node>
 					<Node name="var3">
 						<Node name="value">
-							<Prp name="strvalue" type="H" value="660069007200650066006F007800"/>
+							<Prp name="strvalue" type="H" value="69006500780070006C006F0072006500"/>
 						</Node>
 						<Prp name="name" type="S" value="CurrentBrowser"/>
 					</Node>

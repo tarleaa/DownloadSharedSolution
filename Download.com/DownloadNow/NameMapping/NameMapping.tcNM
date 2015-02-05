@@ -942,6 +942,20 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="ProgressBar" Key="{16D2A53F-7729-4BAA-A95F-320D303EAFCF}" ParallelWalk="True">
+										<TypeInfo Item0="{4A9D347A-AE8B-4EE7-A3C0-184921D6E07D}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="ProgressBar" Type="5" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="msctls_progress32" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="BrowserWindow" Key="{B197FCE4-B056-4BC0-AD2C-9741796B7C65}" ParallelWalk="True">
@@ -1620,6 +1634,7 @@
 			<Child Name="DownloadInProgressWindow" Owner="{7498254F-7CBE-4902-850F-79AE025BCCA8}">
 				<Child Name="EstimatedTimeLeftCaption" Owner="{85B37808-91D5-4650-B866-2B8F65B254AB}" />
 				<Child Name="CancelButton" Owner="{BEB14C4E-27F4-4E06-9CAB-29FC6F370721}" />
+				<Child Name="ProgressBar" Owner="{16D2A53F-7729-4BAA-A95F-320D303EAFCF}" />
 			</Child>
 			<Child Name="BrowserWindow" Owner="{B197FCE4-B056-4BC0-AD2C-9741796B7C65}">
 				<Child Name="SecurityWarningBar" Owner="{75EDCD92-7E69-48EB-8EF7-DA29FEF6DA66}" />
